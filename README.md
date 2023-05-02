@@ -9,4 +9,5 @@ Hey this is **Ziutzel** 👋
 <hr />
 
 #### About me:
-- 👯 I’m looking to collaborate on swift 
+- 👯 I’m looking to collaborate on swift  projects
+
